@@ -1,0 +1,214 @@
+body{
+    margin: 4%;
+    background-color: black;
+    background-image: url(./img/download.jpg);
+    background-repeat: repeat;
+   
+}
+.page{
+    background-color: black;
+    color: white;
+    height: 50px;
+    padding: 15px;
+   
+}
+
+#time{
+    float: right;
+    color: black;
+    font-size: 20px;
+    background-color: yellow;
+    border: 1px solid yellow;
+    border-width: 10px;
+    border-left-width: 70px;
+    border-right-width: 70px;
+    border-radius: 3px;
+    
+    
+}
+.more{
+    color: blue;
+}
+
+nav.head{
+    background-color: blue;
+    height: 80px;
+    margin: 0%;
+    
+
+}
+.peru{
+    text-align: right;
+    font-size: 15px;
+    word-spacing: 2px;
+    padding: 5px;
+}
+  li{
+      display: inline;
+  }
+  .omo{
+      color: white;
+      text-decoration-line: none;
+  }
+  a:hover{
+      color:brown
+  }
+  a:active{
+      color:red
+  }
+  #icons{
+      text-align: start;
+      font-size: 18px;
+      color: white;
+      padding: 0%;
+      margin: 0%;
+  }
+  .list{
+    display: inline;
+    
+  }
+
+
+.container{
+    display: flex;
+    /*border: 1px solid lightgreen;*/
+    
+   
+    
+}
+.container div{
+    /*border: 1px solid green;*/
+    padding: 1px;
+   
+}
+.box-1{
+    flex: 1;
+    padding: auto;
+    background-color: white;
+    border: 1px solid green;
+
+}
+#news{
+    float: right;
+}
+h3{
+    background-color: limegreen;
+    border-style: groove;
+    /*border: 2px solid green;*/
+    height: 30px;
+    margin: 0%;
+    /*border-bottom: 10px solid green groove;*/
+    border-style: outset;
+}
+.box-2{
+    flex: 1;
+    background-color: white;
+    border: 1px solid green;
+}
+.box-3{
+    flex: 1;
+    background-color: ghostwhite;
+
+}
+.features{  
+   display: flex;
+   padding: 2px;
+   margin: auto;
+   
+}
+
+a{
+    padding: 5px;
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration-line: none;
+        
+}
+.moses{
+    padding: 0%;
+    display: inline;
+    
+}
+h5{
+    color: black;
+    padding: auto;
+    margin: 0%;
+    font-size: 12px;
+}
+.bx{
+    color: black;
+    /*padding: 20px;*/
+    text-decoration: underline;
+    border: 1px solid  black;
+    border-radius: 17px;
+    background-color: white;
+    float: right;
+    borde
+}
+.level{
+    color: white;
+    font-weight: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 17px;
+}
+.dum{
+    color: white;
+    
+}
+#news{
+    color: black;
+    text-decoration: underline;
+}
+.H{
+    text-decoration: underline;
+}
+#goals{
+    border: 1px solid  lightgrey;
+    padding: 10px;
+    margin: 20px;
+}
+span{
+   float: right;
+}
+.chat{
+    border: 8px solid  lightgrey;
+    
+}
+textarea{
+    border-radius: 5px;
+}
+.foot{
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+}
+#h5{
+    float: right;
+    border: 1px solid grey;
+    font-size: 14px;
+    border-radius: 20px;
+}
+.ads{
+    width: 350px;
+    height: 180px;
+    padding: 15px;
+    margin: 12px;
+
+}
+#ads{
+    border: 1px solid green;
+}
+#search{
+    float: left;
+    background-color: lightskyblue;
+    width: 430px;
+}
+.input{
+    width: 250px;
+}
+.pain{
+    width: 350px;
+    height: 180px;
+    padding: 15px;
+    margin: 12px
+}

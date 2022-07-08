@@ -1,0 +1,33 @@
+body{
+    background-color:black;
+    background-image: url(./img/download.jpg);
+    
+}
+div{
+    border: 2px solid black;
+    background-color: grey;
+}
+
+h4{
+    padding: 20px;
+    color: white;
+}
+.peru{
+    text-align: right;
+    font-size: 15px;
+    word-spacing: 2px;
+    padding: 5px;
+}
+.omo{
+    color: white;
+    text-decoration-line: none;
+    font-size: 25px;
+    word-spacing: 2px;
+    padding: 5px;
+}
+li{
+    display: inline;
+}
+a:hover{
+    color:brown
+}

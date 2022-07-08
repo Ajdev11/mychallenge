@@ -1,0 +1,225 @@
+body{
+background-color: white;
+margin: 4px;
+
+}
+
+.page{
+    background-color: black;
+    color: white;
+    height: 50px;
+    padding: 15px;
+    
+}
+
+#time{
+    float: right;
+    color: black;
+    font-size: 20px;
+    background-color: yellow;
+    border: 1px solid yellow;
+    border-width: 10px;
+    border-left-width: 70px;
+    border-right-width: 70px;
+    border-radius: 3px;
+    
+    
+}
+.more{
+    color: blue;
+}
+
+nav.head{
+    background-color: blue;
+    height: 80px;
+    margin: 0%;
+    
+
+}
+.peru{
+    text-align: right;
+    font-size: 15px;
+    word-spacing: 2px;
+    padding: 5px;
+}
+  li{
+      display: inline;
+  }
+  .omo{
+      color: white;
+      text-decoration-line: none;
+  }
+  a:hover{
+    color:brown
+}
+a:active{
+    color:red
+}
+#icons{
+    text-align: start;
+    font-size: 18px;
+    color: white;
+    padding: 0%;
+    margin: 0%;
+}
+.list{
+  display: inline;
+  
+}
+.level{
+    color: white;
+    margin: 5px;
+}
+.container{
+    display: flex;
+    /*border: 1px solid lightgreen;*/
+    
+    
+   
+    
+}
+
+.container div{
+    /*border: 1px solid green;*/
+    padding: 1px;
+   
+}
+.box-1{
+    flex: 1;
+    padding: auto;
+    background-color: white;
+    border: 1px solid green;
+
+}
+h3{
+    background-color: limegreen;
+    border-style: groove;
+    /*border: 2px solid green;*/
+    height: 30px;
+    margin: 0%;
+    /*border-bottom: 10px solid green groove;*/
+    border-style: outset;
+}
+#feel{
+    font-size: 15px;
+    font-family: fantasy;
+    float: left;
+}
+h4{
+    padding: 20px;
+    font-family: sans-serif;
+}
+#special{
+    border-style: outset;
+    
+    border-left-width: 60px;
+    border-right-width: 60px;
+    border-color: white;
+    border-left-color: white;
+}
+header{
+    background-color: lightseagreen;
+    
+}
+p{
+    color: red;
+    font-size: 15px;
+    text-shadow: red;
+    font-weight: bolder;
+    font-family: sans-serif;
+    padding: 8px;
+}
+.us{
+   padding: 12px;
+}
+.new{
+    padding: 12px;
+}
+.box-2{
+    flex: 1;
+    background-color: white;
+    border: 1px solid green;
+}
+.chat{
+    border: 8px solid  lightgrey;
+    
+}
+span{
+    float: right;
+ }
+ textarea{
+    border-radius: 5px;
+}
+#goals{
+    border: 1px solid  lightgrey;
+    padding: 10px;
+    margin: 20px;
+}
+.bx{
+    color: black;
+    /*padding: 20px;*/
+    text-decoration: underline;
+    border: 1px solid  black;
+    border-radius: 17px;
+    background-color: white;
+    float: right;
+    
+}
+h5{
+    color: black;
+    padding: auto;
+    margin: 0%;
+    font-size: 12px;
+}
+.foot{
+    color: black;
+    text-align: center;
+    text-decoration: underline;
+    background-color: cadetblue;
+}
+.dum{
+    color: black;
+    
+}
+
+#search{
+    float: left;
+    background-color: lightskyblue;
+    width: 430px;
+}
+.input{
+    width: 250px;
+}
+#h5{
+    float: right;
+    border: 2px solid grey;
+    font-size: 14px;
+    border-radius: 20px;
+}
+#ads{
+    border: 1px solid grey;
+}
+.ads{
+    width: 230px;
+    padding: 15px;
+    margin: 12px;
+}
+.val{
+    width: 60px;
+}
+.vall{
+    width: 30px;
+}
+.rob{
+    width: 30px;
+    height: 30px;
+    
+}
+.report{
+    text-align: center;
+    border: 1px solid grey;
+    border
+}
+.move{
+    text-align: center;
+}
